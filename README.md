@@ -1,3 +1,4 @@
+author :-Ratnesh Dixit
 # AI-Powered Smart Retail & Customer Intelligence Platform
 
 A single deployable system combining **computer vision** (face recognition
