@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+runtime_logs/
+app/models/*.pkl
+app/models/*.yml
+app/models/*.h5
+.pytest_cache/
+*.egg-info/
+.DS_Store

@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  smart-retail-api:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - SMART_RETAIL_API_KEY=dev-demo-key-123
+    volumes:
+      - ./runtime_logs:/app/runtime_logs
